@@ -1,0 +1,3 @@
+/home/user/bgfx-glfw-wasm-3dcube-template-starting-point/buildwasm/CMakeFiles/bgfx-glfw-wasm-3dcube-template-starting-point.dir
+/home/user/bgfx-glfw-wasm-3dcube-template-starting-point/buildwasm/CMakeFiles/edit_cache.dir
+/home/user/bgfx-glfw-wasm-3dcube-template-starting-point/buildwasm/CMakeFiles/rebuild_cache.dir

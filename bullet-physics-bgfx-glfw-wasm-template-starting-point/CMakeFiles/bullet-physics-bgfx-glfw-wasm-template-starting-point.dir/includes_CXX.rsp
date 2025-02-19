@@ -1,0 +1,1 @@
+-I/home/user/bullet3/src -I"/home/user/bullet-physics-bgfx-glfw-wasm-template-starting-point/bgfx/include" -I"/home/user/bullet-physics-bgfx-glfw-wasm-template-starting-point/bx/include" -I"/home/user/bullet-physics-bgfx-glfw-wasm-template-starting-point/bimg/include"

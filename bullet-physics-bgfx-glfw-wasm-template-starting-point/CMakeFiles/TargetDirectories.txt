@@ -1,0 +1,3 @@
+/home/user/bullet-physics-bgfx-glfw-wasm-template-starting-point/buildwasm/CMakeFiles/bullet-physics-bgfx-glfw-wasm-template-starting-point.dir
+/home/user/bullet-physics-bgfx-glfw-wasm-template-starting-point/buildwasm/CMakeFiles/edit_cache.dir
+/home/user/bullet-physics-bgfx-glfw-wasm-template-starting-point/buildwasm/CMakeFiles/rebuild_cache.dir

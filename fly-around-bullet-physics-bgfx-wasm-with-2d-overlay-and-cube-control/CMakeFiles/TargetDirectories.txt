@@ -1,0 +1,4 @@
+/home/user/fly-around-bullet-physics-bgfx-wasm-template-starting-point/buildwasm/CMakeFiles/compile_shaders.dir
+/home/user/fly-around-bullet-physics-bgfx-wasm-template-starting-point/buildwasm/CMakeFiles/fly-around-bullet-physics-bgfx-wasm-template-starting-point.dir
+/home/user/fly-around-bullet-physics-bgfx-wasm-template-starting-point/buildwasm/CMakeFiles/edit_cache.dir
+/home/user/fly-around-bullet-physics-bgfx-wasm-template-starting-point/buildwasm/CMakeFiles/rebuild_cache.dir

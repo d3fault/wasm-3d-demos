@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+807b1aa5fcffb761f3bcb6842b81a0dc CMakeFiles/compile_shaders
+8af970567acf6b6b312c6a2e5df9624f fs_drill.bin
+19d87b990d18e3da82cd3c0380953608 fs_skybox.bin
+f76013aa57dd84223f2d6a5d50d2b395 vs_drill.bin
+f15c1abdca8ddfd0d4c0bbadb34256aa vs_skybox.bin

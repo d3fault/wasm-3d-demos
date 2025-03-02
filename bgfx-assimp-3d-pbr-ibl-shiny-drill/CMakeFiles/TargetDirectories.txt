@@ -1,0 +1,4 @@
+/home/user/textured-duck/buildwasm/CMakeFiles/compile_shaders.dir
+/home/user/textured-duck/buildwasm/CMakeFiles/drill.dir
+/home/user/textured-duck/buildwasm/CMakeFiles/edit_cache.dir
+/home/user/textured-duck/buildwasm/CMakeFiles/rebuild_cache.dir

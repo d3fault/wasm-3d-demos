@@ -1,0 +1,1 @@
+-I"/home/user/textured-duck/bgfx/include" -I"/home/user/textured-duck/bx/include" -I"/home/user/textured-duck/bimg/include" -I/usr/include/stb -I/home/user/assimp/include -I/home/user/assimp/build/include
